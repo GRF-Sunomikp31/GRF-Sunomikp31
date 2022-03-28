@@ -6,7 +6,7 @@ I am **Gipsy**
 ![GitHub followers](https://img.shields.io/github/followers/GRF-Sunomikp31?label=Follow&style=social)
 
 - :books: I’m currently studying at HFUT EE
-- 🌱 I’m currently learning VSLAM，I think this is a very interesting field, which is related to robotics and computer vision.
+- 🌱 I’m currently learning VSLAM，I think this is a very interesting field, which is related to Computer Vision and Robotics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GRF-Sunomikp31&show_icons=true&theme=prussian)
 
